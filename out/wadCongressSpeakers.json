@@ -1,0 +1,3039 @@
+[
+  {
+    "name": "Prashanth Chandrasekar",
+    "details": "CEO of Stack Overflow",
+    "social": [
+      "https://twitter.com/pchandrasekar",
+      "https://www.linkedin.com/in/pchandrasekar/"
+    ]
+  },
+  {
+    "name": "Stormy Peters",
+    "details": "VP of Communities at GitHub | Director, The Linux Foundation",
+    "social": []
+  },
+  {
+    "name": "Joel Spolsky",
+    "details": "Founder of Stack Overflow, Trello, Glitch, and HASH",
+    "social": [
+      "https://www.joelonsoftware.com/",
+      "https://twitter.com/spolsky"
+    ]
+  },
+  {
+    "name": "David Singleton",
+    "details": "CTO at Stripe",
+    "social": [
+      "https://blog.singleton.io/",
+      "https://twitter.com/dps/",
+      "https://www.linkedin.com/in/davidpsingleton",
+      "https://github.com/dps"
+    ]
+  },
+  {
+    "name": "Arik Shtilman",
+    "details": "CEO and Co-Founder of Rapyd",
+    "social": [
+      "https://www.linkedin.com/in/arik-shtilman-b0265/"
+    ]
+  },
+  {
+    "name": "John Romero",
+    "details": "Award-winning Game Creator | Father of FPS | DOOM, Quake, Wolfenstein",
+    "social": [
+      "https://twitter.com/romero",
+      "https://www.linkedin.com/in/theromero/"
+    ]
+  },
+  {
+    "name": "Brenda Romero",
+    "details": "Award-winning Game Designer",
+    "social": []
+  },
+  {
+    "name": "Miško Hevery",
+    "details": "Inventor of Angular/AnuglarJS | CTO at Builder.io",
+    "social": [
+      "http://dev.to/mhevery",
+      "https://twitter.com/mhevery",
+      "http://linkedin.com/in/misko-hevery-3883b1/",
+      "https://github.com/mhevery"
+    ]
+  },
+  {
+    "name": "Anu Bharadwaj",
+    "details": "President of Atlassian",
+    "social": []
+  },
+  {
+    "name": "Dan Abramov",
+    "details": "Software Engineer at Meta",
+    "social": []
+  },
+  {
+    "name": "Angie Jones",
+    "details": "Head of Developer Relations at Block | Java Champion | GitHub Star",
+    "social": [
+      "https://angiejones.tech/",
+      "https://twitter.com/techgirl1908"
+    ]
+  },
+  {
+    "name": "Scott Chacon",
+    "details": "Co-founder of GitHub | CEO at GitButler",
+    "social": []
+  },
+  {
+    "name": "Jaroslaw Kutylowski",
+    "details": "Founder & CEO at DeepL",
+    "social": []
+  },
+  {
+    "name": "Wei Hu",
+    "details": "Senior VP of Research and Development at Oracle",
+    "social": []
+  },
+  {
+    "name": "Tim Cadenbach",
+    "details": "Developer Evangelist at DeepL",
+    "social": [
+      "https://www.tcdev.de/",
+      "https://twitter.com/timcadenbach",
+      "https://www.linkedin.com/in/timcadenbach/"
+    ]
+  },
+  {
+    "name": "Anna John",
+    "details": "Head of Engineering at N26",
+    "social": [
+      "https://www.linkedin.com/in/anna-john/"
+    ]
+  },
+  {
+    "name": "Mike Butcher",
+    "details": "Editor-at-large at TechCrunch",
+    "social": [
+      "http://mikebutcher/",
+      "http://uk.linkedin.com/in/mikebutcher"
+    ]
+  },
+  {
+    "name": "Francesco Ciulla",
+    "details": "Developer Advocate at daily.dev | Docker Captain",
+    "social": [
+      "http://francescociulla.com/",
+      "https://twitter.com/FrancescoCiull4",
+      "https://www.linkedin.com/in/francesco-ciulla-roma/"
+    ]
+  },
+  {
+    "name": "Rahima Yakoob",
+    "details": "Head of Software Development at Porsche AG",
+    "social": [
+      "https://www.linkedin.com/feed/"
+    ]
+  },
+  {
+    "name": "Meazza Romero",
+    "details": "Community Manager at Romero Games",
+    "social": []
+  },
+  {
+    "name": "Ire Aderinokun",
+    "details": "Cofounder, COO, and VP Engineering at Helicarrier",
+    "social": []
+  },
+  {
+    "name": "Yenny Cheung",
+    "details": "Engineering and Product Executive",
+    "social": [
+      "https://leaddev.com/community/yenny-cheung",
+      "https://twitter.com/YennyCheung",
+      "https://www.linkedin.com/in/yennycheung/"
+    ]
+  },
+  {
+    "name": "Keren Kenzi",
+    "details": "Senior Software Engineer | Tech Community Manager | Public Speaker",
+    "social": [
+      "https://twitter.com/KerenKenzi",
+      "https://www.linkedin.com/in/keren-kenzi/"
+    ]
+  },
+  {
+    "name": "Olivier Gaudin",
+    "details": "CEO & Co-Founder at Sonar",
+    "social": [
+      "https://twitter.com/gaudol"
+    ]
+  },
+  {
+    "name": "Julia Furst",
+    "details": "Global Technologist at Veeam",
+    "social": [
+      "https://juliafmorgado.com/",
+      "https://twitter.com/juliafmorgado",
+      "https://www.linkedin.com/in/juliafmorgado/"
+    ]
+  },
+  {
+    "name": "Thomas Pamminger",
+    "details": "CPO & Co-Founder at WeAreDevelopers",
+    "social": [
+      "http://wearedevelopers.com/",
+      "http://thomaspamminger/",
+      "http://linkedin.com/in/thomaspamminger"
+    ]
+  },
+  {
+    "name": "Rowdy Rabouw",
+    "details": "Front-End Focused Senior DevOps Engineer",
+    "social": [
+      "https://rowdy.codes/",
+      "https://twitter.com/rowdyrabouw",
+      "http://nl.linkedin.com/in/rowdyrabouw"
+    ]
+  },
+  {
+    "name": "Daniel Roe",
+    "details": "Framework lead at Nuxt",
+    "social": [
+      "https://nuxt.com/",
+      "https://twitter.com/danielcroe",
+      "https://www.linkedin.com/in/daniel-roe"
+    ]
+  },
+  {
+    "name": "Mihailo Joksimovic",
+    "details": "Senior Software Engineer @ Azure SQL MI at Microsoft",
+    "social": [
+      "https://twitter.com/GlavniProgramer",
+      "https://www.linkedin.com/in/mihailojoksimovic/"
+    ]
+  },
+  {
+    "name": "Igor Todorovski",
+    "details": "Lead Software Developer at IBM",
+    "social": [
+      "https://www.linkedin.com/in/igor-todorovski-48712623/"
+    ]
+  },
+  {
+    "name": "Valeria Barsukov",
+    "details": "Frontend Developer at Freeyou AG",
+    "social": [
+      "https://www.linkedin.com/in/valeriabarsukov/"
+    ]
+  },
+  {
+    "name": "Moh’d Bilal Anas Abualhuda",
+    "details": "iOS Developer at ING",
+    "social": [
+      "https://www.linkedin.com/in/moh-d-bilal-anas-a-85588a51"
+    ]
+  },
+  {
+    "name": "Michael Siregar",
+    "details": "Engineer at DeepL",
+    "social": [
+      "https://de.linkedin.com/in/michael-siregar-40709986"
+    ]
+  },
+  {
+    "name": "Gift Egwuenu",
+    "details": "Developer Advocate at Cloudflare",
+    "social": [
+      "https://www.giftegwuenu.com/",
+      "https://twitter.com/lauragift_"
+    ]
+  },
+  {
+    "name": "Christian Rades",
+    "details": "Principal Engineer at Shopware",
+    "social": [
+      "https://twitter.com/C_Rades"
+    ]
+  },
+  {
+    "name": "Luca Micieli",
+    "details": "Head of Web at xtream srl",
+    "social": [
+      "https://www.linkedin.com/in/luca-micieli/"
+    ]
+  },
+  {
+    "name": "Bilal Karim Reffas",
+    "details": "Software Engineering Manager at Bosch",
+    "social": []
+  },
+  {
+    "name": "Aleksandra Sikora",
+    "details": "Fullstack Developer",
+    "social": [
+      "https://aleksandra.codes/",
+      "https://twitter.com/aleksandrasays",
+      "https://www.linkedin.com/in/aleksandra-sikora-b54699132/"
+    ]
+  },
+  {
+    "name": "Aarik Mudgal",
+    "details": "Engineering Domain Owner at Metro Digital GmbH",
+    "social": [
+      "https://www.linkedin.com/in/aarikmudgal/"
+    ]
+  },
+  {
+    "name": "Rupak Chakraborty",
+    "details": "Engineering Lead at eyeo GmbH",
+    "social": [
+      "https://www.linkedin.com/in/rupachak/"
+    ]
+  },
+  {
+    "name": "Nils Kasseckert",
+    "details": "Founder & CEO at Codecreators",
+    "social": [
+      "https://twitter.com/nilskasseckert"
+    ]
+  },
+  {
+    "name": "Giorgio Boa",
+    "details": "Full stack developer at Claranet",
+    "social": [
+      "http://twitter.com/giorgio_boa",
+      "https://it.linkedin.com/in/giorgio-boa"
+    ]
+  },
+  {
+    "name": "Hendrik Ebbers",
+    "details": "Founder at OpenElements",
+    "social": [
+      "https://twitter.com/hendrikEbbers",
+      "https://www.linkedin.com/in/hendrik-ebbers/"
+    ]
+  },
+  {
+    "name": "Duan Lightfoot",
+    "details": "Sr. Cloud Networking Developer Advocate at AWS",
+    "social": [
+      "https://www.youtube.com/@LabEveryday",
+      "https://twitter.com/labeveryday",
+      "https://www.linkedin.com/in/duanlightfoot/"
+    ]
+  },
+  {
+    "name": "Nele Lea Uhlemann",
+    "details": "Developer Advocate at Fiberplane",
+    "social": [
+      "https://twitter.com/nele_lea",
+      "https://www.linkedin.com/in/nele-uhlemann-268b68191/"
+    ]
+  },
+  {
+    "name": "Andreas Kollegger",
+    "details": "Developer Advocate at Neo4j",
+    "social": [
+      "https://twitter.com/akollegger",
+      "https://www.linkedin.com/in/akollegger/"
+    ]
+  },
+  {
+    "name": "Reka Horvath",
+    "details": "Developer Advocate at Sourcery",
+    "social": [
+      "https://twitter.com/rekahrv",
+      "https://www.linkedin.com/in/reka-horvath-dev/"
+    ]
+  },
+  {
+    "name": "Georg Dresler",
+    "details": "Senior Software Developer at Ray Sono",
+    "social": [
+      "https://www.raysono.com/news-stories",
+      "https://www.linkedin.com/company/raysono"
+    ]
+  },
+  {
+    "name": "Ryan Arndt",
+    "details": "Developer Evangelist (Education) at swirldslabs",
+    "social": [
+      "https://twitter.com/hederyan",
+      "https://www.linkedin.com/in/ryaneh/"
+    ]
+  },
+  {
+    "name": "Falk Sippach",
+    "details": "Software Architect at embarc Software Consulting GmbH",
+    "social": [
+      "https://www.embarc.de/falk-sippach/",
+      "https://twitter.com/sippsack"
+    ]
+  },
+  {
+    "name": "David Peter Hirsch",
+    "details": "OSPO Program Manager at Dynatrace",
+    "social": [
+      "https://twitter.com/DavePeterH",
+      "https://www.linkedin.com/in/davidpeterhirsch/"
+    ]
+  },
+  {
+    "name": "Arlemi Turpault",
+    "details": "Developer Advocacy Lead at Postman",
+    "social": [
+      "https://twitter.com/arlemi",
+      "https://www.linkedin.com/in/arlemi/"
+    ]
+  },
+  {
+    "name": "Dávid Lévai",
+    "details": "Content Creator, Indie Developer at Pier 418 OÜ",
+    "social": [
+      "https://davidlevai.com/",
+      "https://twitter.com/thedevdavid",
+      "https://linkedin.com/in/thedevdavid"
+    ]
+  },
+  {
+    "name": "Stefan Hofer",
+    "details": "Trainer & Consultant at WPS - Workplace Solutions",
+    "social": [
+      "https://domainstorytelling.org/",
+      "https://twitter.com/hofstef",
+      "https://www.linkedin.com/in/hofstef/"
+    ]
+  },
+  {
+    "name": "Filip Hric",
+    "details": "Independent educator",
+    "social": [
+      "https://filiphric.com/",
+      "https://twitter.com/filip_hric/",
+      "http://www.linkedin.com/in/filip-hric"
+    ]
+  },
+  {
+    "name": "Michael Cade",
+    "details": "Field CTO, Cloud-Native & OSS at Kasten by Veeam",
+    "social": [
+      "https://twitter.com/MichaelCade1"
+    ]
+  },
+  {
+    "name": "Dennis Peld",
+    "details": "Software Engineer at Amboss",
+    "social": [
+      "https://ommik.com/",
+      "https://www.linkedin.com/in/dennis-peld/"
+    ]
+  },
+  {
+    "name": "Nemanja Petrovic",
+    "details": "Tech Lead at Badin Soft",
+    "social": [
+      "https://medium.com/@nemanjadev",
+      "https://twitter.com/NemanjaDev",
+      "https://www.linkedin.com/in/nemanja-petrovic-74b30678/"
+    ]
+  },
+  {
+    "name": "Phil Helliwell",
+    "details": "Software Engineer at Vodafone Foundation",
+    "social": []
+  },
+  {
+    "name": "Joel Lord",
+    "details": "Developer Advocate at MongoDB",
+    "social": [
+      "https://javascripteverything.com/",
+      "https://twitter.com/joel__lord",
+      "https://www.linkedin.com/in/joel-lord"
+    ]
+  },
+  {
+    "name": "Sebastian Schrittwieser",
+    "details": "Security and Privacy Research Group at University of Vienna",
+    "social": [
+      "https://www.twitter.com/sschritt",
+      "https://at.linkedin.com/in/sebastian-schrittwieser-18b7a896"
+    ]
+  },
+  {
+    "name": "Sander Mangel",
+    "details": "Technical Solutions Architect at Shopware AG",
+    "social": [
+      "https://twitter.com/sandermangel",
+      "https://www.linkedin.com/in/sandermangel/"
+    ]
+  },
+  {
+    "name": "Frank Zechert",
+    "details": "Senior Software Engineer at Capgemini",
+    "social": []
+  },
+  {
+    "name": "Roland H. Grabner",
+    "details": "Professor of Educational Neuroscience at University of Graz",
+    "social": []
+  },
+  {
+    "name": "Witek Socha",
+    "details": "Technical Product Owner for CKEditor 5",
+    "social": [
+      "https://twitter.com/WitekSocha",
+      "https://www.linkedin.com/in/witek-socha/"
+    ]
+  },
+  {
+    "name": "Axel Barbier",
+    "details": "Technical enterprise architecture at powercloud",
+    "social": [
+      "https://www.linkedin.com/in/axel-barbier/"
+    ]
+  },
+  {
+    "name": "Jonas Wackerbarth",
+    "details": "Associate Architect at Capgemini Deutschland GmbH",
+    "social": []
+  },
+  {
+    "name": "Priscila Oliveira",
+    "details": "Software Engineer at Sentry",
+    "social": [
+      "https://twitter.com/priscilawebdev"
+    ]
+  },
+  {
+    "name": "Justyna Walkowska",
+    "details": "Group Product Manager at DeepL",
+    "social": [
+      "https://medium.com/im-in-product-now/",
+      "https://www.linkedin.com/in/justynawalkowska/"
+    ]
+  },
+  {
+    "name": "Hila Israeli",
+    "details": "Senior Software Engineer and Scrum Master at Ownbackup",
+    "social": [
+      "https://twitter.com/hilaisr",
+      "https://twitter.com/hilaisr",
+      "https://www.linkedin.com/in/hila-israeli/"
+    ]
+  },
+  {
+    "name": "Bastian Eicher",
+    "details": "Software Engineer at DeepL",
+    "social": [
+      "https://www.linkedin.com/in/bastian-eicher/"
+    ]
+  },
+  {
+    "name": "Eleftheria Batsou",
+    "details": "Community Manager at @CrabNebulaDev",
+    "social": [
+      "https://twitter.com/BatsouElef"
+    ]
+  },
+  {
+    "name": "Radu Matei",
+    "details": "Co-founder and Chief Technology Officer at Fermyon",
+    "social": [
+      "https://radu-matei.com/",
+      "https://twitter.com/matei_radu",
+      "https://www.linkedin.com/in/mateiradu/"
+    ]
+  },
+  {
+    "name": "Tomaz Bratanic",
+    "details": "Graph Data Analyst at Neo4j",
+    "social": [
+      "https://tbgraph.wordpress.com/",
+      "https://twitter.com/tb_tomaz",
+      "https://www.linkedin.com/in/tomaz-bratanic-a58891127/"
+    ]
+  },
+  {
+    "name": "David Vlijmincx",
+    "details": "Developer at Team Rockstars",
+    "social": [
+      "https://www.davidvlijmincx.com/",
+      "https://twitter.com/David_Vlijmincx",
+      "https://www.linkedin.com/in/david-vlijmincx/"
+    ]
+  },
+  {
+    "name": "Maurice Brinkmann",
+    "details": "Product Owner at STACKIT Cloud Foundry",
+    "social": [
+      "https://www.linkedin.com/in/maurice-brinkmann/"
+    ]
+  },
+  {
+    "name": "Polina Patsulda",
+    "details": "Senior Business Functional Analyst at Deutsche Bank",
+    "social": [
+      "https://www.linkedin.com/in/patsulda/"
+    ]
+  },
+  {
+    "name": "Ekaterina Sirazitdinova",
+    "details": "Sr. Data Scientist at NVIDIA",
+    "social": [
+      "https://twitter.com/katjasrz",
+      "https://www.linkedin.com/in/ekaterina-sirazitdinova-11664a26/"
+    ]
+  },
+  {
+    "name": "Victor del Rosal",
+    "details": "Founder at fiveinnolabs",
+    "social": [
+      "https://twitter.com/victordelrosal",
+      "https://www.linkedin.com/in/victordelrosal/"
+    ]
+  },
+  {
+    "name": "Omar Gallo",
+    "details": "Ruby on Rails Consultant & DevOps specialist",
+    "social": [
+      "https://twitter.com/omargallob",
+      "https://www.linkedin.com/in/omargallob"
+    ]
+  },
+  {
+    "name": "Marco Plaul",
+    "details": "Senior Solutions Architect at Amazon Web Services",
+    "social": [
+      "https://www.linkedin.com/in/mplaul"
+    ]
+  },
+  {
+    "name": "Dora Petrella",
+    "details": "Senior Data Scientist at Metro.digital",
+    "social": []
+  },
+  {
+    "name": "Catharina Bauch",
+    "details": "Lead Software Engineer at Capgemini",
+    "social": []
+  },
+  {
+    "name": "Richard Bown",
+    "details": "Independent Software Consultant",
+    "social": [
+      "https://richardwbown.com/",
+      "https://twitter.com/bown_rw",
+      "https://www.linkedin.com/in/richard-bown/"
+    ]
+  },
+  {
+    "name": "Zaid Zaim",
+    "details": "Spatial Computing Expert at Ignore Gravity | Microsoft MVP",
+    "social": [
+      "https://www.linkedin.com/in/zaidzaim/",
+      "https://twitter.com/ZaidZaim2k",
+      "https://www.linkedin.com/in/zaidzaim"
+    ]
+  },
+  {
+    "name": "Alexander Pirker",
+    "details": "Senior Security Consultant",
+    "social": [
+      "https://www.linkedin.com/in/alexander-pirker-b2039855/"
+    ]
+  },
+  {
+    "name": "Noam Honig",
+    "details": "CEO & Co-Founder at Firefly Migration",
+    "social": [
+      "https://remult.dev/",
+      "https://twitter.com/noamhonig",
+      "https://www.linkedin.com/in/noamhonig/"
+    ]
+  },
+  {
+    "name": "Anna Kinez",
+    "details": "Sports Kinesiologist & Health Coach",
+    "social": [
+      "https://www.instagram.com/anna_kinez/?hl=en"
+    ]
+  },
+  {
+    "name": "Ed Marquez",
+    "details": "Developer Relations Engineer at Swirlds Labs for Hedera",
+    "social": [
+      "https://twitter.com/ed__marquez",
+      "https://www.linkedin.com/in/ed-marquez/"
+    ]
+  },
+  {
+    "name": "Hila Fish",
+    "details": "Senior DevOps Engineer at Wix.com",
+    "social": [
+      "https://twitter.com/hilafish1",
+      "https://www.linkedin.com/in/hila-fish"
+    ]
+  },
+  {
+    "name": "Ron Veen",
+    "details": "Special Agent at Team Rockstars IT",
+    "social": [
+      "https://twitter.com/ronveen",
+      "https://www.linkedin.com/in/ron-veen-114b4315/"
+    ]
+  },
+  {
+    "name": "Pascal Schäfer",
+    "details": "Head of Freelance Community DACH at Malt",
+    "social": []
+  },
+  {
+    "name": "Mikkel Mørk Hegnhøj",
+    "details": "Head of Product and DevRel at Fermyon",
+    "social": [
+      "https://twitter.com/mikkelhegn",
+      "https://www.linkedin.com/in/mikkelhegn/"
+    ]
+  },
+  {
+    "name": "Ines Akrap",
+    "details": "Web Performance Engineer at Cognizant Netcentric",
+    "social": [
+      "https://twitter.com/InesAkrap",
+      "https://www.linkedin.com/in/ines-akrap/"
+    ]
+  },
+  {
+    "name": "Konstantin Bespalov",
+    "details": "Engineer at Deutsche Bank Berlin Technology Centre",
+    "social": [
+      "https://www.linkedin.com/in/konstantin-bespalov/"
+    ]
+  },
+  {
+    "name": "Kent Inge Fagerland Simonsen",
+    "details": "Chief Consultant & Competency Excellence Lead at Tietoevry",
+    "social": [
+      "https://k1s.org/"
+    ]
+  },
+  {
+    "name": "David Dal Busco",
+    "details": "Creator of Juno",
+    "social": [
+      "https://daviddalbusco.com/",
+      "https://twitter.com/daviddalbusco"
+    ]
+  },
+  {
+    "name": "Martin Sakowski",
+    "details": "Senior Solutions Architect at Amazon Web Services",
+    "social": [
+      "https://www.linkedin.com/in/martinsakowski/"
+    ]
+  },
+  {
+    "name": "Tatiana Chervova",
+    "details": "Lead Technical Consultant at NTT DATA",
+    "social": []
+  },
+  {
+    "name": "Markus Walker",
+    "details": "Software Engineer at PRODYNA SE",
+    "social": [
+      "https://www.linkedin.com/in/markus-walker-908848194/"
+    ]
+  },
+  {
+    "name": "Alberto Acerbis",
+    "details": "Software architect at Intré S.r.L.",
+    "social": [
+      "https://www.intre.it/",
+      "https://twitter.com/aacerbis",
+      "https://www.linkedin.com/in/aacerbis/"
+    ]
+  },
+  {
+    "name": "Philipp Krenn",
+    "details": "Developer at Elastic",
+    "social": [
+      "https://www.elastic.co/",
+      "https://twitter.com/xeraa",
+      "https://www.linkedin.com/in/philippkrenn/"
+    ]
+  },
+  {
+    "name": "Sylvia Dieckmann",
+    "details": "Freelance Developer at Rozendal Labs",
+    "social": [
+      "https://twitter.com/sylviedie",
+      "https://www.linkedin.com/in/sylviadieckmann/"
+    ]
+  },
+  {
+    "name": "Jon Geater",
+    "details": "Chief Product & Technology Officer, Co-Founder at RKVST",
+    "social": [
+      "https://rkvst.com/",
+      "https://twitter.com/jongeater",
+      "https://www.linkedin.com/in/jongeater/"
+    ]
+  },
+  {
+    "name": "Eberhard Wolff",
+    "details": "Head of Architecture at SWAGLab",
+    "social": [
+      "https://innoq.com/",
+      "http://twitter.com/ewolff",
+      "https://www.linkedin.com/in/eberhardwolff/"
+    ]
+  },
+  {
+    "name": "Alexander Hurbean",
+    "details": "IT-Security Consultant at Certitude Consulting GmbH",
+    "social": [
+      "https://certitude.consulting/"
+    ]
+  },
+  {
+    "name": "Johannes Bergsmann",
+    "details": "CTO at Automated Software Testing GmbH",
+    "social": [
+      "https://www.devmate.software/",
+      "https://www.linkedin.com/in/johannes-bergsmann/"
+    ]
+  },
+  {
+    "name": "Jose Maria Valera Reales",
+    "details": "Tech Lead at Lautsprecher Teufel GmbH",
+    "social": [
+      "https://teufel.de/",
+      "https://twitter.com/Chemaclass",
+      "https://www.linkedin.com/in/jose-maria-valera-reales/"
+    ]
+  },
+  {
+    "name": "Oliver Sturm",
+    "details": "Training Director at DevExpress",
+    "social": [
+      "https://twitter.com/olivers"
+    ]
+  },
+  {
+    "name": "Natalia Freyre",
+    "details": "Tech Partner at Globant",
+    "social": [
+      "https://www.globant.com/",
+      "https://www.linkedin.com/in/natalia-freyre-4a58b44/"
+    ]
+  },
+  {
+    "name": "Tom Wheeler",
+    "details": "Principal Curriculum Developer and Developer Advocate at Temporal Technologies Inc.",
+    "social": [
+      "https://twitter.com/TemporalTom",
+      "https://www.linkedin.com/in/tomwheelerstl/"
+    ]
+  },
+  {
+    "name": "Andreas Erben",
+    "details": "CTO Applied AI and Metaverse at daenet",
+    "social": [
+      "https://daenet.com/",
+      "https://twitter.com/andreaserben",
+      "https://www.linkedin.com/in/andreaserben/"
+    ]
+  },
+  {
+    "name": "George Asafev",
+    "details": "Senior Software Engineer at Miro",
+    "social": [
+      "https://miro.com/",
+      "https://www.linkedin.com/in/georgii-asafev-66474a54/"
+    ]
+  },
+  {
+    "name": "Gerta Sheganaku",
+    "details": "COO at LocalStack",
+    "social": [
+      "http://localstack.cloud/",
+      "https://twitter.com/sheg_ge",
+      "https://www.linkedin.com/in/gerta-sheganaku/"
+    ]
+  },
+  {
+    "name": "Daniel Bauer",
+    "details": "Senior Software Developer at Automated Software Testing GmbH",
+    "social": []
+  },
+  {
+    "name": "Alla Pavlova",
+    "details": "Sourcing Talent Partner, Interim at Riot Games",
+    "social": [
+      "https://www.riotgames.com/en",
+      "https://twitter.com/Siggrun",
+      "https://www.linkedin.com/in/allapavlova/"
+    ]
+  },
+  {
+    "name": "Lars Hupel",
+    "details": "Chief Evangelist at Giesecke+Devrient",
+    "social": [
+      "https://twitter.com/larsr_h",
+      "https://www.linkedin.com/in/lars-hupel"
+    ]
+  },
+  {
+    "name": "William Bishop",
+    "details": "Staff Developer Advocate at Miro",
+    "social": [
+      "https://developers.miro.com/",
+      "https://www.linkedin.com/in/williambishop231/"
+    ]
+  },
+  {
+    "name": "Diana Gastrin",
+    "details": "Software Engineer at Apple",
+    "social": [
+      "https://github.com/dianagastrin",
+      "https://twitter.com/gastrin_diana",
+      "https://www.linkedin.com/in/diana-g-4510579b/"
+    ]
+  },
+  {
+    "name": "Anja Kunkel",
+    "details": "Principal Engineer at Mister Spex",
+    "social": [
+      "https://www.linkedin.com/in/anja-kunkel-236534135/"
+    ]
+  },
+  {
+    "name": "Tatiana Chervova",
+    "details": "Lead Technical Consultant at NTT DATA",
+    "social": [
+      "https://de.nttdata.com/"
+    ]
+  },
+  {
+    "name": "Tanja Ulianova",
+    "details": "Software Engineer at inovex GmbH",
+    "social": [
+      "https://www.inovex.de/",
+      "https://twitter.com/techtanja",
+      "https://www.linkedin.com/in/tanja-ulianova-b55569233/"
+    ]
+  },
+  {
+    "name": "Mattias Jonsson",
+    "details": "Senior Database Engineer at PingCAP",
+    "social": [
+      "https://www.pingcap.com/",
+      "https://www.linkedin.com/in/mjonss/"
+    ]
+  },
+  {
+    "name": "Karthik Ganeshram",
+    "details": "Software Engineer at Fermyon Technologies",
+    "social": [
+      "https://fermyon.com/"
+    ]
+  },
+  {
+    "name": "Damir Dobric",
+    "details": "Lead Software Architect at daenet GmbH - ACP Digital",
+    "social": [
+      "https://daenet.com/",
+      "https://twitter.com/ddobric",
+      "https://www.linkedin.com/in/damir-dobric/"
+    ]
+  },
+  {
+    "name": "Jan-Christoph Schlieker",
+    "details": "Head of Architecture Management at Finanz Informatik",
+    "social": [
+      "https://www.f-i.de/Ueber-uns/mehralsTech/TeamFI",
+      "https://www.linkedin.com/in/jan-christoph-schlieker/"
+    ]
+  },
+  {
+    "name": "Stefan Schöberl",
+    "details": "Researcher and Senior Software Engineer at Software Competence Center Hagenberg",
+    "social": [
+      "https://www.scch.at/",
+      "https://twitter.com/stefanschoeberl",
+      "https://www.linkedin.com/in/stefan-schoeberl/"
+    ]
+  },
+  {
+    "name": "Jonathan Müller",
+    "details": "Software Engineer at think-cell Software GmbH",
+    "social": [
+      "https://www.think-cell.com/en/",
+      "https://twitter.com/foonathan"
+    ]
+  },
+  {
+    "name": "Arno Schoedl",
+    "details": "Founder & CTO at think-cell Software GmbH",
+    "social": [
+      "https://www.think-cell.com/en/",
+      "https://twitter.com/aschoedl",
+      "https://www.linkedin.com/company/think-cell"
+    ]
+  },
+  {
+    "name": "Wolfgang Ettlinger",
+    "details": "Director Software Security at Certitude Consulting GmbH",
+    "social": [
+      "https://certitude.consulting/",
+      "https://twitter.com/ettisan"
+    ]
+  },
+  {
+    "name": "Imran Nazar",
+    "details": "Frontend Developer at DeviantArt",
+    "social": [
+      "https://twitter.com/_inazar",
+      "https://www.linkedin.com/in/inazar/"
+    ]
+  },
+  {
+    "name": "Anupam Krishnamurthy",
+    "details": "Test Automation Engineer / IT Consultant at Bitgrip GmbH",
+    "social": [
+      "https://bitgrip.com/",
+      "https://twitter.com/hawknosed",
+      "https://www.linkedin.com/in/anupam-krishnamurthy-b2568a63/"
+    ]
+  },
+  {
+    "name": "Jiří Činčura",
+    "details": "Software Engineer at Microsoft",
+    "social": []
+  },
+  {
+    "name": "Daniël van Eeden",
+    "details": "Technical Support Engineer at PingCAP",
+    "social": [
+      "https://pingcap.com/",
+      "https://twitter.com/dveeden",
+      "https://www.linkedin.com/in/dveeden/"
+    ]
+  },
+  {
+    "name": "Sarah Alina Fox",
+    "details": "Wissenschaftliche Mitarbeiterin für Kommunikation und Wissensmanagement at involas Institut für berufliche Bildung, Arbeitsmarkt- und Sozialpolitik GmbH",
+    "social": [
+      "https://www.wamoco.de/",
+      "https://de.linkedin.com/in/sarah-alina-fox-75752a127"
+    ]
+  },
+  {
+    "name": "Thorsten Jakoby",
+    "details": "Directory Technology Expertise at Novatec Consulting GmbH",
+    "social": [
+      "https://twitter.com/jakobyte1024",
+      "https://www.linkedin.com/in/thorsten-jakoby-069014b4/"
+    ]
+  },
+  {
+    "name": "Andrés Escobar",
+    "details": "Senior Flutter Engineer at Tide LTD",
+    "social": [
+      "https://www.tide.co/",
+      "https://www.linkedin.com/in/andres-escobar-07/"
+    ]
+  },
+  {
+    "name": "Mohit Sharma",
+    "details": "Developer Advocate at MongoDB",
+    "social": [
+      "https://twitter.com/codewithmohit",
+      "https://www.linkedin.com/in/mohit-sharma-90961525/"
+    ]
+  },
+  {
+    "name": "Lucien Immink",
+    "details": "Software Architect & Developer Advocate at iO",
+    "social": [
+      "https://www.iodigital.com/",
+      "https://twitter.com/lucienimmink",
+      "https://www.linkedin.com/in/lucien-immink/"
+    ]
+  },
+  {
+    "name": "Irina Artemeva",
+    "details": "Language Engineer & Consultant at TypeFox",
+    "social": [
+      "https://www.typefox.io/"
+    ]
+  },
+  {
+    "name": "Liz Moy",
+    "details": "Developer Advocate at Evervault",
+    "social": [
+      "https://twitter.com/ecmoy",
+      "https://linkedin.com/in/lizmoy"
+    ]
+  },
+  {
+    "name": "James Robertson",
+    "details": "Developer Advocate at Sendbird",
+    "social": [
+      "https://sendbird.com/",
+      "https://twitter.com/james_a_rob"
+    ]
+  },
+  {
+    "name": "MIlan Todorović",
+    "details": "Apple Certified Trainer at Crossover",
+    "social": [
+      "https://www.linkedin.com/in/swiftskipper/"
+    ]
+  },
+  {
+    "name": "Jonas Andrulis",
+    "details": "Founder & CEO at Aleph Alpha",
+    "social": [
+      "https://www.aleph-alpha.com/",
+      "https://twitter.com/JonasAndrulis",
+      "https://www.linkedin.com/in/jonasandrulis/"
+    ]
+  },
+  {
+    "name": "Harry Kimpel",
+    "details": "Principal Developer Relations Engineer at New Relic",
+    "social": [
+      "https://www.newrelic.com/",
+      "https://twitter.com/harrykimpel",
+      "https://www.linkedin.com/in/harrykimpel/"
+    ]
+  },
+  {
+    "name": "Richard Fichtner",
+    "details": "Principal Software Architect at XDEV Software GmbH",
+    "social": [
+      "https://xdev.software/",
+      "https://twitter.com/RichardFichtner",
+      "https://www.linkedin.com/in/richardfichtner/"
+    ]
+  },
+  {
+    "name": "Marco Otte-Witte",
+    "details": "Founder at Mainmatter GmbH",
+    "social": [
+      "https://mainmatter.com/",
+      "https://twitter.com/marcoow",
+      "https://www.linkedin.com/in/marco-otte-witte"
+    ]
+  },
+  {
+    "name": "Tino Sokic",
+    "details": "CEO at CNV-IBIS, LLC",
+    "social": [
+      "http://www.dobardan.net/",
+      "https://twitter.com/tinosokic",
+      "http://www.linkedin.com/in/tinosokic"
+    ]
+  },
+  {
+    "name": "Michele Caci",
+    "details": "Software Engineer at Amadeus",
+    "social": [
+      "https://twitter.com/nikiforos_frees",
+      "https://www.linkedin.com/in/michele-caci-47770132/"
+    ]
+  },
+  {
+    "name": "Nico Enking",
+    "details": "Senior Software Architect at Finanz Informatik",
+    "social": [
+      "https://www.f-i.de/Ueber-uns/mehralsTech/TeamFI",
+      "https://www.linkedin.com/in/nico-enking-aaa7a6239/"
+    ]
+  },
+  {
+    "name": "Alexandre Borges",
+    "details": "Software Engineer at Eneco",
+    "social": [
+      "https://www.coolblue.nl/",
+      "https://www.linkedin.com/in/afborgesdev/"
+    ]
+  },
+  {
+    "name": "Clemens Helm",
+    "details": "CEO at DevCraft Academy",
+    "social": [
+      "https://devcraft.academy/",
+      "https://twitter.com/clemenshelm",
+      "https://www.linkedin.com/in/clemenshelm/"
+    ]
+  },
+  {
+    "name": "Isabell Heider",
+    "details": "Associate Security Consultant at IBM Deutschland GmbH",
+    "social": [
+      "https://www.linkedin.com/in/isabell-heider/"
+    ]
+  },
+  {
+    "name": "Niels Tanis",
+    "details": "Sr. Principal Security Researcher at Veracode",
+    "social": [
+      "https://www.veracode.com/",
+      "https://twitter.com/nielstanis",
+      "https://www.linkedin.com/in/nielstanis/"
+    ]
+  },
+  {
+    "name": "Codrina Merigo",
+    "details": "Digital Product Manager at FMC",
+    "social": [
+      "https://twitter.com/_Codrina_",
+      "https://www.linkedin.com/in/codrinamerigo/"
+    ]
+  },
+  {
+    "name": "Christian Giesswein",
+    "details": "CEO at Giesswein Software Solutions",
+    "social": [
+      "http://www.software.tirol/",
+      "http://twitter.com/giessweinweb"
+    ]
+  },
+  {
+    "name": "Sanna Cedergren",
+    "details": "Partner & Tech savvy visionary at Netlight",
+    "social": [
+      "https://www.linkedin.com/in/sanna-cedergren-2b71934a/"
+    ]
+  },
+  {
+    "name": "Marcy Ericka Charollois",
+    "details": "content strategist consultant at Merci Marcy",
+    "social": [
+      "https://twitter.com/marcychama",
+      "https://www.linkedin.com/in/marcy-ericka-charollois-1604/"
+    ]
+  },
+  {
+    "name": "Alexej Sommer",
+    "details": "Lead Software developer at Capgemini",
+    "social": [
+      "https://www.capgemini.com/",
+      "https://twitter.com/alexejsommer",
+      "https://www.linkedin.com/in/alexejsommer/"
+    ]
+  },
+  {
+    "name": "Cheuk Ho",
+    "details": "Open Source Developer, python community leader, diversity and inclusion activist",
+    "social": [
+      "https://www.anaconda.com/",
+      "https://twitter.com/cheukting_ho",
+      "https://www.linkedin.com/in/cheukting-ho"
+    ]
+  },
+  {
+    "name": "Alex Walling",
+    "details": "Field CTO at Rapid",
+    "social": [
+      "https://rapidapi.com/",
+      "https://twitter.com/alexwalling",
+      "https://www.linkedin.com/in/wallingalex/"
+    ]
+  },
+  {
+    "name": "Jens Claes",
+    "details": "Senior Software Engineer at DataCamp",
+    "social": [
+      "https://twitter.com/entropitor",
+      "https://linkedin.com/in/jensclaes/"
+    ]
+  },
+  {
+    "name": "Julia Zacharias",
+    "details": "Senior VP of Customer Operations EMEA at Applause Gmbh",
+    "social": [
+      "https://www.applause.com/",
+      "https://www.linkedin.com/in/juliazacharias/"
+    ]
+  },
+  {
+    "name": "Milica Aleksic",
+    "details": "Software Engineer at Badin Soft",
+    "social": [
+      "https://www.badinsoft.com/",
+      "https://twitter.com/millicode_",
+      "https://www.linkedin.com/in/milica-aleksic/"
+    ]
+  },
+  {
+    "name": "Tobias Goeschel",
+    "details": "Senior Solutions Architect, FSI at Amazon Web Services",
+    "social": [
+      "https://twitter.com/w3ltraumpirat",
+      "https://www.linkedin.com/in/w3ltraumpirat/"
+    ]
+  },
+  {
+    "name": "Lorenzo Pieri",
+    "details": "Full Stack Software Engineer at birdie",
+    "social": [
+      "https://404answernotfound.eu/",
+      "https://twitter.com/404answnotfound",
+      "https://www.linkedin.com/in/lorenzopieri/"
+    ]
+  },
+  {
+    "name": "Alexander Bubeck",
+    "details": "Principal Cloud Architect & People Lead at Zühlke Engineering GmbH",
+    "social": [
+      "https://www.zuehlke.com/en",
+      "https://www.linkedin.com/in/abubeck/"
+    ]
+  },
+  {
+    "name": "Tomas Votruba",
+    "details": "CEO/developer at Rector",
+    "social": [
+      "https://getrector.org/",
+      "https://twitter.com/votrubat"
+    ]
+  },
+  {
+    "name": "Matt Butcher",
+    "details": "Founder & CEO at Fermyon",
+    "social": [
+      "https://www.fermyon.com/",
+      "https://twitter.com/technosophos",
+      "https://www.linkedin.com/in/mattbutcher/"
+    ]
+  },
+  {
+    "name": "Justas Rafanavičius",
+    "details": "Tech Lead at Nord Security",
+    "social": []
+  },
+  {
+    "name": "Balázs Kiss",
+    "details": "Lead Trainer, Development Lead at Cydrill Software Security Ltd.",
+    "social": [
+      "https://cydrill.com/",
+      "https://www.linkedin.com/in/balazsk"
+    ]
+  },
+  {
+    "name": "Ramona Schwering",
+    "details": "Software Engineer at shopware AG",
+    "social": [
+      "https://twitter.com/leichteckig",
+      "https://www.linkedin.com/in/ramona-schwering/"
+    ]
+  },
+  {
+    "name": "Mustafa Toroman",
+    "details": "CTO at run.events",
+    "social": [
+      "https://twitter.com/toromust"
+    ]
+  },
+  {
+    "name": "Dr. Oliver Wäldrich",
+    "details": "Lead Developer and Software Architect at Deutsche Kreditbank AG",
+    "social": []
+  },
+  {
+    "name": "Olaf Stein",
+    "details": "Head of Services at Edge Delta",
+    "social": []
+  },
+  {
+    "name": "Llywelyn Griffith-Swain",
+    "details": "Head of Digital SRE at Vodafone UK",
+    "social": []
+  },
+  {
+    "name": "Michael Contento",
+    "details": "Full-Stack Developer at Xpirit Germany GmbH",
+    "social": [
+      "https://xpirit.com/",
+      "https://www.linkedin.com/in/michaelcontento"
+    ]
+  },
+  {
+    "name": "Thomas Chauchefoin",
+    "details": "Vulnerability Researcher at Sonar",
+    "social": [
+      "https://www.sonarsource.com/",
+      "https://fr.linkedin.com/in/thomaschauchefoin/en"
+    ]
+  },
+  {
+    "name": "Stefan Baumgartner",
+    "details": "Senior Product Architect at Dynatrace",
+    "social": [
+      "https://oida.dev/",
+      "https://twitter.com/ddprrt",
+      "https://www.linkedin.com/in/stefan-baumgartner-bb621564/"
+    ]
+  },
+  {
+    "name": "Erick Wendel",
+    "details": "Professional Educator at Erick Wendel Training",
+    "social": [
+      "https://erickwendel.com/",
+      "https://twitter.com/erickwendel_",
+      "https://linkedin.com/in/erickwendel/"
+    ]
+  },
+  {
+    "name": "Hendrik Lösch",
+    "details": "Management Consultant at ZEISS Digital Innovation",
+    "social": [
+      "http://www.zeiss.com/",
+      "https://twitter.com/herrloesch",
+      "https://www.linkedin.com/in/hendrik-l%C3%B6sch-88aa7511b/"
+    ]
+  },
+  {
+    "name": "Doina Popa",
+    "details": "CEO, MD at InnoTrue GmbH",
+    "social": [
+      "https://www.innotrue.eu/",
+      "https://www.twitter.com/yodane",
+      "https://www.linkedin.com/in/doinapopa"
+    ]
+  },
+  {
+    "name": "Mathias Tausig",
+    "details": "Senior Security Consultant at SBA Research",
+    "social": [
+      "https://www.sba-research.org/team/mathias-tausig/"
+    ]
+  },
+  {
+    "name": "Markus Kett",
+    "details": "CEO, Principal Software Architect at MicroStream Software GmbH",
+    "social": [
+      "https://www.microstream.one/",
+      "https://twitter.com/markuskett",
+      "https://www.linkedin.com/in/markuskett/"
+    ]
+  },
+  {
+    "name": "Timo Salm",
+    "details": "Senior Lead Tanzu DevX Solution Engineer at VMware",
+    "social": [
+      "https://tanzu.vmware.com/",
+      "https://twitter.com/salmto",
+      "https://de.linkedin.com/in/timo-salm-8779a680"
+    ]
+  },
+  {
+    "name": "Dr. Andre Retterath",
+    "details": "Partner at Earlybird Venture Capital",
+    "social": [
+      "http://earlybird.com/",
+      "https://twitter.com/AndreRetterath",
+      "https://www.linkedin.com/in/andreretterath/"
+    ]
+  },
+  {
+    "name": "Fredrik Danielsson",
+    "details": "Product Manager at https://github.com/tinymce/tinymce",
+    "social": [
+      "https://www.tiny.cloud/",
+      "https://se.linkedin.com/in/fredrikdanielsson"
+    ]
+  },
+  {
+    "name": "Karen Huaulme",
+    "details": "Principal Developer Advocate at MongoDB",
+    "social": [
+      "https://www.mongodb.com/",
+      "https://twitter.com/YouOldMaid",
+      "https://www.linkedin.com/in/karenhuaulme/"
+    ]
+  },
+  {
+    "name": "Tomislav Tipurić",
+    "details": "Chief Technology Officer at Nephos",
+    "social": [
+      "https://nephos.eu/",
+      "https://twitter.com/totipu",
+      "https://www.linkedin.com/in/tomislavtipuric/"
+    ]
+  },
+  {
+    "name": "Jemiah Sius",
+    "details": "Director, Product Management at New Relic",
+    "social": [
+      "https://www.linkedin.com/in/jemiahsius/"
+    ]
+  },
+  {
+    "name": "Hamase Kasiri",
+    "details": "Lead Developer at Deutsche Kreditbank AG",
+    "social": []
+  },
+  {
+    "name": "Anna Leushchenko",
+    "details": "Senior Staff Mobile Engineer at Tide",
+    "social": [
+      "https://twitter.com/AnnaLeushchenko",
+      "http://linkedin.com/in/annaleushchenko/"
+    ]
+  },
+  {
+    "name": "Markus Harrer",
+    "details": "Senior Consultant at INNOQ",
+    "social": [
+      "http://feststelltaste.de/",
+      "http://feststelltaste/",
+      "http://linkedin.com/in/markus-harrer/"
+    ]
+  },
+  {
+    "name": "Marius Obert",
+    "details": "Developer Evangelist at Twilio",
+    "social": [
+      "https://medium.com/@marius.obert",
+      "https://twitter.com/IObert_",
+      "https://www.linkedin.com/in/mariusobert/"
+    ]
+  },
+  {
+    "name": "Michael Irwin",
+    "details": "DevRel at Docker",
+    "social": [
+      "https://docker.com/",
+      "https://twitter.com/mikesir87",
+      "https://linkedin.com/in/mikesir87"
+    ]
+  },
+  {
+    "name": "Patricio Vargas",
+    "details": "Staff Developer Advocate at PayPal",
+    "social": [
+      "https://twitter.com/devpato"
+    ]
+  },
+  {
+    "name": "Daniel Roe",
+    "details": "Framework lead at Nuxt",
+    "social": [
+      "https://nuxt.com/",
+      "https://twitter.com/danielcroe",
+      "https://www.linkedin.com/in/daniel-roe"
+    ]
+  },
+  {
+    "name": "Josip Stuhli",
+    "details": "CTO at Sofascore",
+    "social": [
+      "https://www.sofascore.com/",
+      "https://twitter.com/jstuhli",
+      "https://www.linkedin.com/in/josip-stuhli-8780816b/"
+    ]
+  },
+  {
+    "name": "Jakub Andrzejewski",
+    "details": "Senior Developer & Advocate at Vue Storefront",
+    "social": [
+      "https://www.vuestorefront.io/",
+      "https://twitter.com/jacobandrewsky",
+      "https://pl.linkedin.com/in/jakub-andrzejewski"
+    ]
+  },
+  {
+    "name": "Eldert Grootenboer",
+    "details": "Program Manager Azure Service Bus at Microsoft",
+    "social": [
+      "https://twitter.com/egrootenboer",
+      "https://www.linkedin.com/in/eldert-grootenboer"
+    ]
+  },
+  {
+    "name": "Robert Bräutigam",
+    "details": "Freelancer at prewave.ai",
+    "social": [
+      "https://twitter.com/robertbrautigam"
+    ]
+  },
+  {
+    "name": "George Cave",
+    "details": "Founder at Interaction Magic",
+    "social": [
+      "https://interactionmagic.com/",
+      "https://twitter.com/George_Cave",
+      "https://www.linkedin.com/in/gcave/"
+    ]
+  },
+  {
+    "name": "Olena Borzenko-Turianska",
+    "details": "Software Consultant at Xpirit Germany",
+    "social": [
+      "https://xpirit.com/",
+      "https://twitter.com/borzenko_lena",
+      "https://www.linkedin.com/in/olena-borzenko/"
+    ]
+  },
+  {
+    "name": "Tomas Vaškevičius",
+    "details": "Technical Lead at NordSecurity",
+    "social": [
+      "https://nordsecurity.com/",
+      "https://www.linkedin.com/in/vaskevicius/"
+    ]
+  },
+  {
+    "name": "Eddy Vinck",
+    "details": "Software Engineer at FrontValue",
+    "social": [
+      "https://frontvalue.nl/",
+      "https://twitter.com/EddyVinckk",
+      "https://www.linkedin.com/in/eddyvinck/"
+    ]
+  },
+  {
+    "name": "Alayshia Knighten",
+    "details": "Manager, Product Teaining at Honeycomb.io",
+    "social": [
+      "https://www.linkedin.com/in/alayshia"
+    ]
+  },
+  {
+    "name": "Tav Herzlich",
+    "details": "Software engineer at Cisco",
+    "social": [
+      "https://tavh.tech/"
+    ]
+  },
+  {
+    "name": "Maxim Fateev",
+    "details": "CEO/Cofounder at Temporal",
+    "social": [
+      "https://temporal.io/",
+      "https://twitter.com/mfateev",
+      "https://www.linkedin.com/in/fateev/"
+    ]
+  },
+  {
+    "name": "Lorenzo Gabriele",
+    "details": "Software Engineer at Codacy",
+    "social": [
+      "https://www.codacy.com/",
+      "https://twitter.com/codacy",
+      "https://www.linkedin.com/company/codacy/"
+    ]
+  },
+  {
+    "name": "Daniel Gaszewski",
+    "details": "IT consultant / .NET Developer at Sopra Steria Sweden",
+    "social": []
+  },
+  {
+    "name": "Christian Woerz",
+    "details": "Senior fullstack developer at Freelancer",
+    "social": [
+      "https://www.linkedin.com/in/christian-w%C3%B6rz-a1228380/"
+    ]
+  },
+  {
+    "name": "Onur Gumus",
+    "details": "Senior Software Engineer at Microsoft",
+    "social": [
+      "https://microsoft.com/",
+      "https://twitter.com/OnurGumusDev",
+      "https://www.linkedin.com/in/onurgumus/"
+    ]
+  },
+  {
+    "name": "Lars Kölker",
+    "details": "Owner at Lars Kölker - Softwarelösungen",
+    "social": [
+      "https://lars.koelker.dev/",
+      "https://www.linkedin.com/in/lars-k%C3%B6lker-104346220/"
+    ]
+  },
+  {
+    "name": "Simona Sandru",
+    "details": "Founder & CEO at Global Women TechLeaders",
+    "social": [
+      "https://www.globalwomenintech.com/",
+      "https://www.linkedin.com/in/simona-sandru/"
+    ]
+  },
+  {
+    "name": "Mirna Alaisami",
+    "details": "Senior Consultant at Novatec Consulting GmbH",
+    "social": [
+      "https://www.novatec-gmbh.de/",
+      "https://twitter.com/alaisamiM",
+      "https://www.linkedin.com/in/mirna-alaisami-030323124/"
+    ]
+  },
+  {
+    "name": "Jan Weinschenker",
+    "details": "Software Architect at Holisticon AG",
+    "social": [
+      "https://www.holisticon.de/",
+      "https://www.linkedin.com/in/janweinschenker/"
+    ]
+  },
+  {
+    "name": "Andreas Kaldun",
+    "details": "Head of Optics Design Projection and Test Optics at Carl Zeiss SMT GmbH",
+    "social": [
+      "https://www.zeiss.com/"
+    ]
+  },
+  {
+    "name": "Michele Riva",
+    "details": "Co-Founder & CTO at OramaSearch",
+    "social": [
+      "https://oramasearch.com/",
+      "https://twitter.com/MicheleRivaCode",
+      "https://linkedin.com/in/micheleriva95"
+    ]
+  },
+  {
+    "name": "Wesley Cabus",
+    "details": "Coding Architect at Xebia | Xpirit",
+    "social": [
+      "https://xpirit.com/",
+      "https://twitter.com/wesleycabus"
+    ]
+  },
+  {
+    "name": "Peter Kröner",
+    "details": "Supreme Commander at Erklärbär Enterprises",
+    "social": [
+      "https://peterkroener.de/",
+      "https://twitter.com/sir_pepe"
+    ]
+  },
+  {
+    "name": "Phil Nash",
+    "details": "Developer Advocate at Sonar",
+    "social": [
+      "https://www.sonarsource.com/",
+      "https://twitter.com/philnash",
+      "https://www.linkedin.com/in/philnash/"
+    ]
+  },
+  {
+    "name": "Stephan Lemnitzer",
+    "details": "iOS Developer at ING",
+    "social": [
+      "http://linkedin.com/in/stephanlemnitzer"
+    ]
+  },
+  {
+    "name": "Moh’d Bilal Anas Abualhuda",
+    "details": "iOS Developer at ING",
+    "social": [
+      "https://www.linkedin.com/in/moh-d-bilal-anas-a-85588a51"
+    ]
+  },
+  {
+    "name": "Nathaniel Okenwa",
+    "details": "Developer Evangelism at Twilio",
+    "social": [
+      "http://chatterboxcoder/"
+    ]
+  },
+  {
+    "name": "Anuradha Kumari",
+    "details": "Senior Frontend Developer",
+    "social": [
+      "https://www.anuradhakumari.com/",
+      "https://twitter.com/miracle_404",
+      "https://www.linkedin.com/in/anuradha15/"
+    ]
+  },
+  {
+    "name": "Stephan Kraft",
+    "details": "Software Developer Advocate at Red Hat",
+    "social": [
+      "http://www.directedagility.com/",
+      "https://www.linkedin.com/in/stephan-kraft-6839758/"
+    ]
+  },
+  {
+    "name": "Louëlla Creemers",
+    "details": "Developer at Louëlla Development",
+    "social": [
+      "https://louella.dev/",
+      "https://twitter.com/lovelacecoding",
+      "https://www.linkedin.com/in/louelladev/"
+    ]
+  },
+  {
+    "name": "Ayesha Kaleem",
+    "details": "Software Engineer at Mbition GmbH",
+    "social": [
+      "https://ayesha54.github.io/",
+      "https://twitter.com/Ayesha546",
+      "https://www.linkedin.com/in/ayesha-kaleem-015187b0/"
+    ]
+  },
+  {
+    "name": "Sonya Moisset",
+    "details": "Senior Security Advocate at Snyk",
+    "social": [
+      "https://snyk.io/",
+      "https://twitter.com/SonyaMoisset",
+      "https://www.linkedin.com/in/sonyamoisset/"
+    ]
+  },
+  {
+    "name": "Desiree Vetencourt",
+    "details": "Specialist Software Developer Lead at Vodafone",
+    "social": []
+  },
+  {
+    "name": "Cassandra Faris",
+    "details": "Community Manager at Kasten by Veeam",
+    "social": [
+      "http://cassandrafaris/"
+    ]
+  },
+  {
+    "name": "Muhammad Sami Suleman",
+    "details": "Expert Fullstack AR/XR Developer at Vodafone Group",
+    "social": []
+  },
+  {
+    "name": "Trutz Sautz",
+    "details": "Technical Team Lead XR at Vodafone Group",
+    "social": []
+  },
+  {
+    "name": "Ulrich Irnich",
+    "details": "Chief Information Officer at Vodafone Germany",
+    "social": []
+  },
+  {
+    "name": "Sven Eckoldt",
+    "details": "Partnerships Lead at CARIAD",
+    "social": [
+      "http://cariad.technology/",
+      "http://linkedin.com/in/seckoldt/"
+    ]
+  },
+  {
+    "name": "Tobias Struckmeier",
+    "details": "Principal Software Engineer at adesso SE",
+    "social": [
+      "http://adesso.de/",
+      "http://tobmaster/",
+      "http://linkedin.com/in/struckmeier/"
+    ]
+  },
+  {
+    "name": "Kapil Gupta",
+    "details": "Head Of MLOPS at EON",
+    "social": [
+      "http://linkedin.com/in/guptakapil1982/"
+    ]
+  },
+  {
+    "name": "Sayed Bouzouraa",
+    "details": "Director of Development Automated Driving/Parking at AUDI AG",
+    "social": [
+      "http://audi.de/"
+    ]
+  },
+  {
+    "name": "Florian Trieloff",
+    "details": "Senior System Engineer at Kasten by Veeam",
+    "social": [
+      "http://linkedin.com/in/florian-trieloff/"
+    ]
+  },
+  {
+    "name": "Natale Vinto",
+    "details": "Developer Advocate Lead at Red Hat",
+    "social": []
+  },
+  {
+    "name": "Mithun Dhar",
+    "details": "VP & GM of the Developer tools & programs BU at Red Hat",
+    "social": []
+  },
+  {
+    "name": "Hans-Peter Grahsl",
+    "details": "Developer Advocate at Red Hat",
+    "social": []
+  },
+  {
+    "name": "Kevin Dubois",
+    "details": "Developer Advocate at Red Hat",
+    "social": []
+  },
+  {
+    "name": "Markus Eisele",
+    "details": "Senior Principal at Red Hat",
+    "social": [
+      "http://myfear/",
+      "https://www.linkedin.com/in/markuseisele/"
+    ]
+  },
+  {
+    "name": "Paul Holzinger",
+    "details": "Software Engineer at Red Hat",
+    "social": []
+  },
+  {
+    "name": "Stevan Le Meur",
+    "details": "Product Manager for Red Hat",
+    "social": []
+  },
+  {
+    "name": "Cedric Clyburn",
+    "details": "Developer Advocate at Red Hat",
+    "social": [
+      "https://www.cedricclyburn.com/",
+      "https://twitter.com/cedricclyburn",
+      "https://www.linkedin.com/in/cedricclyburn/?original_referer="
+    ]
+  },
+  {
+    "name": "Gregor Neumeyer",
+    "details": "Head of Digital Channels & Technology Exploration at UNIQA Insurance Group",
+    "social": [
+      "http://uniqagroup.com/",
+      "http://linkedin.com/in/gregor-neumeyer-42357292/"
+    ]
+  },
+  {
+    "name": "Fabian Quosdorf",
+    "details": "Founder at XR Bootcamp",
+    "social": []
+  },
+  {
+    "name": "Dr. Gernot Starke",
+    "details": "Fellow at INNOQ",
+    "social": [
+      "http://arc42.org/",
+      "http://gernotstarke/"
+    ]
+  },
+  {
+    "name": "Benjamin Wolf",
+    "details": "Senior IT Consultant at INNOQ",
+    "social": [
+      "http://innoq.social/@ben",
+      "http://linkedin.com/in/benjaminwolf1985/"
+    ]
+  },
+  {
+    "name": "Tom Brukner",
+    "details": "Team Leader at Kiwi.com",
+    "social": [
+      "http://code.kiwi.com/",
+      "http://linkedin.com/in/tom-brukner-76338570"
+    ]
+  },
+  {
+    "name": "David Hanacek",
+    "details": "Senior Account Solution Architect at Red Hat Austria GmbH",
+    "social": [
+      "http://redhat.com/",
+      "http://sd_cloudy/",
+      "http://at.linkedin.com/in/dhanacek"
+    ]
+  },
+  {
+    "name": "Amha Bekele",
+    "details": "Software Engineer at Codacy",
+    "social": [
+      "http://blog.codacy.com/",
+      "http://codacy/",
+      "http://linkedin.com/company/codacy/"
+    ]
+  },
+  {
+    "name": "Clemens Hübner",
+    "details": "Software Security Engineer at inovex GmbH",
+    "social": [
+      "http://inovex.de/",
+      "http://clemenshuebner/",
+      "http://linkedin.com/in/clemens-huebner"
+    ]
+  },
+  {
+    "name": "Jens Schmidt",
+    "details": "Senior Software Engineer at E.ON Digital Technology GmbH",
+    "social": [
+      "http://securityvalley.org/",
+      "http://aicdev/",
+      "http://linkedin.com/in/jens-schmidt-b366b9a7/"
+    ]
+  },
+  {
+    "name": "Nils Hünerberg",
+    "details": "Senior Application Integration Developer at E.ON Digital Technology",
+    "social": [
+      "https://www.linkedin.com/in/nils-h%C3%BCnerberg-5a855a110/"
+    ]
+  },
+  {
+    "name": "Steve Upton",
+    "details": "Principal QA Consultant at Thoughtworks",
+    "social": [
+      "http://thoughtworks.com/",
+      "https://twitter.com/Steve_Upton",
+      "http://linkedin.com/in/stevejupton/"
+    ]
+  },
+  {
+    "name": "Lian Li",
+    "details": "Developer Advocate at Loft Labs",
+    "social": [
+      "https://twitter.com/lianmakesthings",
+      "https://www.linkedin.com/in/lian-li/"
+    ]
+  },
+  {
+    "name": "Valentine Awe",
+    "details": "Senior Frontend engineer",
+    "social": [
+      "https://twitter.com/LawdValoni",
+      "https://www.linkedin.com/in/valentine-awe-b55567a1/"
+    ]
+  },
+  {
+    "name": "David Leitner",
+    "details": "Principal Engineer at SQUER Solutions",
+    "social": [
+      "http://leitner.io/",
+      "http://twitter.com/duffleit",
+      "https://www.xing.com/profile/David_Leitner4",
+      "http://github.com/duffleit"
+    ]
+  },
+  {
+    "name": "Marco Emrich",
+    "details": "Consultant and software crafter at codecentric",
+    "social": [
+      "https://blog.codecentric.de/",
+      "https://twitter.com/marcoemrich",
+      "https://www.linkedin.com/in/marco-emrich-47485388/"
+    ]
+  },
+  {
+    "name": "Toma Puljak",
+    "details": "Software Developer at Daytona",
+    "social": [
+      "https://twitter.com/TomaPuljak",
+      "http://linkedin.com/in/toma-puljak/"
+    ]
+  },
+  {
+    "name": "Matthias Niehoff",
+    "details": "Head of Data at codecentric",
+    "social": [
+      "https://www.codecentric.de/",
+      "https://twitter.com/matthiasniehoff",
+      "https://www.linkedin.com/in/matthias-niehoff/"
+    ]
+  },
+  {
+    "name": "Andrey Sitnik",
+    "details": "Lead front-end developers at Evil Martians",
+    "social": [
+      "https://twitter.com/sitnikcode",
+      "https://www.linkedin.com/in/sinik"
+    ]
+  },
+  {
+    "name": "Nura Kawa",
+    "details": "AI Research Scientist at neurocat",
+    "social": [
+      "https://nurakawa.github.io/",
+      "https://linkedin.com/in/nurakawa"
+    ]
+  },
+  {
+    "name": "David Alber",
+    "details": "IBM Data Scientist | IBM Quantum Ambassador",
+    "social": [
+      "https://www.ibm.com/cloud/blog/how-to-configure-camunda-workflow-engine-on-ibm-cloud",
+      "https://www.linkedin.com/in/alber-p-david/"
+    ]
+  },
+  {
+    "name": "Antonia Hahn",
+    "details": "Software Developer at GFT Technologies",
+    "social": [
+      "https://www.linkedin.com/company/gft-group/?viewAsMember=true"
+    ]
+  },
+  {
+    "name": "Bastian Heilemann",
+    "details": "Lead Cloud Native Solution Architect at Carl Zeiss AG",
+    "social": []
+  },
+  {
+    "name": "Johannes Hansen",
+    "details": "Managing Director at Eurowings Digital GmbH",
+    "social": [
+      "http://linkedin.com/in/johannes-hansen-60828311/"
+    ]
+  },
+  {
+    "name": "Jasmin Azemović",
+    "details": "CISO | Associate Professor | Microsoft MVP | HTEC Group",
+    "social": [
+      "http://mistral.ba/",
+      "http://jasminazemovic/",
+      "http://linkedin.com/in/jasminazemovic/"
+    ]
+  },
+  {
+    "name": "Lucas Santos",
+    "details": "Senior Software Engineer at Klarna",
+    "social": [
+      "http://blog.lsantos.dev/",
+      "http://_staticvoid/",
+      "http://linkedin.com/in/lsantosdev/"
+    ]
+  },
+  {
+    "name": "Darrel Idiagbor",
+    "details": "Senior Full Stack Engineer at Futurice GmbH",
+    "social": [
+      "http://idarrel.netlify.app/",
+      "http://idiagbordarrel/",
+      "http://linkedin.com/in/darrelidiagbor"
+    ]
+  },
+  {
+    "name": "Henning Harbs",
+    "details": "Head of Car Security at Volkswagen",
+    "social": [
+      "https://www.volkswagen-karriere.de/de.html",
+      "http://linkedin.com/in/henning-harbs-249322223/"
+    ]
+  },
+  {
+    "name": "Hollie Gruber",
+    "details": "Technical Impact Manager at New Relic",
+    "social": [
+      "http://new-relic-social-impact-team.medium.com/",
+      "http://technicalimpact/",
+      "http://linkedin.com/in/holliegruber/"
+    ]
+  },
+  {
+    "name": "Khaled Yakdan",
+    "details": "Co-founder & Chief Scientist at Code Intelligence",
+    "social": [
+      "http://code-intelligence.com/",
+      "http://khaledyakdan/",
+      "http://linkedin.com/in/khaled-yakdan/"
+    ]
+  },
+  {
+    "name": "Filip Rakowski",
+    "details": "Co-founder & Chief DX Officer at Vue Storefront",
+    "social": []
+  },
+  {
+    "name": "Henrike Hedel",
+    "details": "Head of Tech Program at FreeTech Axel Springer Academy of Journalism and Technology",
+    "social": [
+      "http://freetech.academy/en/",
+      "http://linkedin.com/in/henrike-hedel/"
+    ]
+  },
+  {
+    "name": "Steven Plöger",
+    "details": "Head of Immersive News at Axel Springer SE / FreeTech Academy",
+    "social": [
+      "http://freetech.academy/",
+      "https://www.linkedin.com/in/steven-pl%C3%B6ger-3b5b93154/"
+    ]
+  },
+  {
+    "name": "Sebastian Theophil",
+    "details": "Senior Software Engineer at think-cell Software GmbH",
+    "social": [
+      "http://think-cell.com/en/"
+    ]
+  },
+  {
+    "name": "Andrey Semenyuk",
+    "details": "Senior Cloud Operations Engineer at Vyntelligence",
+    "social": []
+  },
+  {
+    "name": "James Seconde",
+    "details": "Senior Developer Advocate at Vonage",
+    "social": [
+      "http://secondej/",
+      "http://linkedin.com/in/secondej/"
+    ]
+  },
+  {
+    "name": "Raphael Manke",
+    "details": "IT Consultant at codecentric AG",
+    "social": [
+      "http://codecentric.de/",
+      "http://raphaelmanke/",
+      "https://www.linkedin.com/in/raphael-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-manke-a61912114/"
+    ]
+  },
+  {
+    "name": "Jan Schmidt",
+    "details": "Software Security Architect at Finanz Informatik",
+    "social": [
+      "http://f-i.de/",
+      "https://www.linkedin.com/in/jan-schmidt-application-security/"
+    ]
+  },
+  {
+    "name": "Maik Wietheger",
+    "details": "Software Architect at Finanzinformatik",
+    "social": [
+      "http://linkedin.com/in/maik-wietheger-94503b160/"
+    ]
+  },
+  {
+    "name": "Crístian Viana",
+    "details": "Android developer at Eurowings Digital GmbH",
+    "social": [
+      "https://eurowings-digital.de/",
+      "http://linkedin.com/in/cristiandeives/"
+    ]
+  },
+  {
+    "name": "Elena Ignatik",
+    "details": "Software Engineer at Miro",
+    "social": [
+      "https://medium.com/@simpikkle",
+      "http://linkedin.com/in/elenaignatik"
+    ]
+  },
+  {
+    "name": "Hauke Brammer",
+    "details": "Senior Full Stack Developer at DeepUp GmbH",
+    "social": [
+      "http://hauke.me/",
+      "http://linkedin.com/in/haukebrammer/"
+    ]
+  },
+  {
+    "name": "Mirko Ross",
+    "details": "CEO - Co Founder at asvin GmbH",
+    "social": [
+      "http://asvin.io/",
+      "http://mirko_ross/",
+      "http://linkedin.com/in/mirko-ross/"
+    ]
+  },
+  {
+    "name": "Roland Wammers",
+    "details": "Solutions Engineer at SingleStore",
+    "social": [
+      "http://singlestore.com/blog/",
+      "http://singlestoredevs/",
+      "http://linkedin.com/company/singlestore"
+    ]
+  },
+  {
+    "name": "Philipp Pascal Kremer",
+    "details": "Software Developer at IONOS SE",
+    "social": []
+  },
+  {
+    "name": "Ram Bansal",
+    "details": "Senior Developer Advocate at Nylas",
+    "social": [
+      "http://nylas.com/",
+      "http://_ramb_/",
+      "http://linkedin.com/in/ram-bansal/"
+    ]
+  },
+  {
+    "name": "Ash Arnwine",
+    "details": "Director of Developer Relations at Nylas",
+    "social": [
+      "http://nylas.com/",
+      "http://ashryan_io/",
+      "http://linkedin.com/in/ashryan/"
+    ]
+  },
+  {
+    "name": "Cathrin Möller",
+    "details": "Principal Consultant at TNG Technology Consulting GmbH",
+    "social": [
+      "http://tngtech.com/",
+      "http://linkedin.com/in/dr-cathrin-moeller/"
+    ]
+  },
+  {
+    "name": "Moritz Johner",
+    "details": "Senior Software Engineer at Form3",
+    "social": [
+      "http://github.com/moolen",
+      "http://linkedin.com/in/moritz-johner/"
+    ]
+  },
+  {
+    "name": "Mario-Leander Reimer",
+    "details": "Managing Director | CTO at QAware GmbH",
+    "social": [
+      "http://qaware.de/",
+      "http://leanderreimer/",
+      "https://www.linkedin.com/in/mario-leander-reimer-b2b67aa0/"
+    ]
+  },
+  {
+    "name": "Ferhan Ozkan",
+    "details": "Co-Founder at XR Bootcamp",
+    "social": [
+      "https://xrbootcamp.com/virtual-reality-blog/",
+      "http://xr_bootcamp/",
+      "http://linkedin.com/in/ferhanozkan/"
+    ]
+  },
+  {
+    "name": "Padma N",
+    "details": "Solutions Engineer at Zoho Corporation",
+    "social": [
+      "https://www.linkedin.com/in/padma-neelameghan-94a774175/"
+    ]
+  },
+  {
+    "name": "Matti Nannt",
+    "details": "Co-Founder of Formbricks",
+    "social": [
+      "http://formbricks.com/",
+      "http://mattinannt/",
+      "http://linkedin.com/in/matthiasnannt/"
+    ]
+  },
+  {
+    "name": "Enrico La Torre",
+    "details": "Software Engineer at ALDI SÜD",
+    "social": [
+      "http://enrico.latorre@aldi-sued.com/"
+    ]
+  },
+  {
+    "name": "Markus Dreseler",
+    "details": "Senior Software Engineer at Snowflake Computing GmbH",
+    "social": [
+      "http://linkedin.com/in/markus-dreseler-820b88a5/"
+    ]
+  },
+  {
+    "name": "Jürgen Pilz",
+    "details": "Solution Engineer at Couchbase",
+    "social": [
+      "https://www.couchbase.com/",
+      "http://linkedin.com/in/juergen-pilz-1089363/"
+    ]
+  },
+  {
+    "name": "Valentin Madrid",
+    "details": "DevRel at Solana Foundation",
+    "social": [
+      "https://solana.com/",
+      "http://valentinmadrid_/"
+    ]
+  },
+  {
+    "name": "Tom Tovar",
+    "details": "Chief Executive Officer at Appdome",
+    "social": [
+      "https://www.appdome.com/how-to/",
+      "http://appdome/",
+      "http://linkedin.com/in/tom-tovar-9b8552/"
+    ]
+  },
+  {
+    "name": "Carsten Wendt",
+    "details": "Head of Financial Innovation und Digital Solution at Finanz Informatik",
+    "social": [
+      "http://linkedin.com/in/carsten-wendt-a53642271/"
+    ]
+  },
+  {
+    "name": "Alexandra Petri",
+    "details": "Web Developer at Schwarz IT",
+    "social": [
+      "http://linkedin.com/in/alexandra-petri-a028b8251/"
+    ]
+  },
+  {
+    "name": "David Estevez",
+    "details": "ML Engineer at Canva",
+    "social": [
+      "http://destevez.me/",
+      "http://_destevez_/"
+    ]
+  },
+  {
+    "name": "Mike Elsmore",
+    "details": "Developer Advocate at Infobip",
+    "social": [
+      "http://elsmore.me/",
+      "http://ukmadlz/",
+      "http://linkedin.com/in/mikeelsmore/"
+    ]
+  },
+  {
+    "name": "Tobias Brenner",
+    "details": "Principal Expert Application Development at E.ON Digital Technology GmbH",
+    "social": [
+      "http://linkedin.com/in/tobias-brenner-a732571a9/"
+    ]
+  },
+  {
+    "name": "Andreas Liebl",
+    "details": "CEO at appliedAI Initiative",
+    "social": []
+  },
+  {
+    "name": "Renato Dompieri Beltrão",
+    "details": "Full-Stack Tech Lead",
+    "social": []
+  },
+  {
+    "name": "Neil Mansilla",
+    "details": "Developer Advocate at Atlassian",
+    "social": [
+      "http://blog.developer.atlassian.com/",
+      "http://mansilladev/",
+      "http://linkedin.com/in/neilmansilla"
+    ]
+  },
+  {
+    "name": "Andrej Šarić",
+    "details": "CTO at 4 point O Venture Labs",
+    "social": [
+      "http://linkedin.com/in/asaric/"
+    ]
+  },
+  {
+    "name": "Anastasiia Tymoshchuk",
+    "details": "Associate Director of Engineering at Native Instruments",
+    "social": [
+      "http://anastasiatymo/",
+      "http://linkedin.com/in/atymoshchuk/"
+    ]
+  },
+  {
+    "name": "Kendrick Curtis",
+    "details": "Director of Technology at Codacy",
+    "social": []
+  },
+  {
+    "name": "Christian Heilmann",
+    "details": "Director of Developer Relations at WeAreDevelopers",
+    "social": [
+      "http://codepo8/",
+      "http://linkedin.com/in/christianheilmann/"
+    ]
+  },
+  {
+    "name": "David Romić",
+    "details": "Embedded Software Engineering Manager at Rimac Technology",
+    "social": [
+      "http://linkedin.com/in/david-romi%C4%87-8a251168/"
+    ]
+  },
+  {
+    "name": "Fabian Aulkemeier",
+    "details": "Software Architect at Finanzinformatik",
+    "social": []
+  },
+  {
+    "name": "Katharina Löhrke",
+    "details": "Software Developer at Finanz Informatik",
+    "social": [
+      "https://www.linkedin.com/in/katharina-l%C3%B6hrke-89a205221/"
+    ]
+  },
+  {
+    "name": "Mikhail Maslo",
+    "details": "iOS Engineer at Joom",
+    "social": []
+  },
+  {
+    "name": "Ivan Brezak Brkan IBB",
+    "details": "Director of developer content, Infobip",
+    "social": [
+      "http://ivanbrezakbrkan/",
+      "http://linkedin.com/in/ivanbrezakbrkan"
+    ]
+  },
+  {
+    "name": "Fanny Jimenez",
+    "details": "Psychologin & Ressortleiterin Karriere I Leben I Wissen at Business Insider Deutschland",
+    "social": []
+  },
+  {
+    "name": "Michael Foree",
+    "details": "Director of Data Science and Data Platform",
+    "social": [
+      "http://linkedin.com/in/michael-foree-22b78111/"
+    ]
+  },
+  {
+    "name": "Alex Warren",
+    "details": "Senior Software Developer at Stack Overflow",
+    "social": [
+      "http://alexwarren/",
+      "http://linkedin.com/in/alexwarren/"
+    ]
+  },
+  {
+    "name": "Dylan Beattie",
+    "details": "Independent Consultant at dylanbeattie.net",
+    "social": [
+      "http://dylanbeattie.net/blog",
+      "http://dylanbeattie/",
+      "http://linkedin.com/in/dylanbeattie"
+    ]
+  },
+  {
+    "name": "Yoni Zach",
+    "details": "Security Researcher at Appdome",
+    "social": [
+      "http://appdome.com/"
+    ]
+  },
+  {
+    "name": "Itay Bianco",
+    "details": "Senior Software Engineer at Appdome",
+    "social": [
+      "http://appdome.com/",
+      "http://linkedin.com/in/itay-bianco-69457543"
+    ]
+  },
+  {
+    "name": "Mrina Sugosh",
+    "details": "Developer Relations Manager at Tiny",
+    "social": [
+      "https://dev.to/mrinasugosh",
+      "http://mrinasugosh/",
+      "http://linkedin.com/in/mrinasugosh/"
+    ]
+  },
+  {
+    "name": "Augustinas Stirbis",
+    "details": "Co-founder & Director of Engineering at CAST AI",
+    "social": [
+      "http://cast.ai/",
+      "http://linkedin.com/in/augustinasstirbis/"
+    ]
+  },
+  {
+    "name": "Bogdan Vlad",
+    "details": "CTO at genezio",
+    "social": [
+      "http://genez.io/",
+      "http://linkedin.com/in/iulian-bogdan-vlad/"
+    ]
+  },
+  {
+    "name": "Elad Ben-Israel",
+    "details": "Founder & CEO at Monada, Inc.",
+    "social": [
+      "http://docs.winglang.io/blog",
+      "http://emeshbi/",
+      "http://linkedin.com/in/hackingonstuff/"
+    ]
+  },
+  {
+    "name": "Sohrab Hosseini",
+    "details": "Co-founder at Orquesta",
+    "social": [
+      "http://orquesta.cloud/",
+      "http://linkedin.com/in/sohrabhosseini/"
+    ]
+  },
+  {
+    "name": "Steliana Moraru",
+    "details": "",
+    "social": [
+      "http://stelianamoraru.ro/",
+      "http://steliana/",
+      "http://linkedin.com/in/stelianamoraru"
+    ]
+  },
+  {
+    "name": "Diana Fernandez",
+    "details": "Oracle Vice President, Cloud Adoption EMEA",
+    "social": [
+      "http://linkedin.com/in/dianafernandez/"
+    ]
+  },
+  {
+    "name": "Antonija Bilić Arar",
+    "details": "Executive Editor at ShiftMag.dev",
+    "social": []
+  },
+  {
+    "name": "Akash Manjunath",
+    "details": "Lead Software Engineer at Carl Zeiss AG",
+    "social": [
+      "http://linkedin.com/in/akash-manjunath-a2302676/"
+    ]
+  },
+  {
+    "name": "Timothy Marland",
+    "details": "Senior Mobile Specialist Solutions Architect at MongoDB",
+    "social": []
+  },
+  {
+    "name": "Dieter Flick",
+    "details": "Data Architect at DataStax",
+    "social": [
+      "http://datastax.com/",
+      "http://linkedin.com/in/dieter-flick/"
+    ]
+  },
+  {
+    "name": "Elise Bentley",
+    "details": "",
+    "social": [
+      "http://tiny.cloud/blog/",
+      "http://linkedin.com/in/elisebentley/"
+    ]
+  },
+  {
+    "name": "Dugald Morrow",
+    "details": "",
+    "social": []
+  },
+  {
+    "name": "Caterina Curti",
+    "details": "Developer Advocate at Atlassian",
+    "social": []
+  },
+  {
+    "name": "Sir Tim Berners-Lee",
+    "details": "Inventor of the World Wide Web",
+    "social": []
+  },
+  {
+    "name": "Steve Wozniak",
+    "details": "Co-founder of Apple",
+    "social": []
+  },
+  {
+    "name": "Bjarne Stroustrup",
+    "details": "Inventor of C++",
+    "social": []
+  },
+  {
+    "name": "Thomas Dohmke",
+    "details": "CEO, GitHub",
+    "social": []
+  },
+  {
+    "name": "Cassie Kozyrkov",
+    "details": "Chief Decision Scientist at Google",
+    "social": []
+  },
+  {
+    "name": "Joel Spolsky",
+    "details": "Founder of Stack Overflow, Trello, Glitch, and HASH",
+    "social": []
+  },
+  {
+    "name": "Scott Hanselman",
+    "details": "Programmer, teacher, speaker",
+    "social": []
+  },
+  {
+    "name": "Angie Jones",
+    "details": "Head of Developer Relations at Block | Java Champion | GitHub Star",
+    "social": []
+  },
+  {
+    "name": "Garry Kasparov",
+    "details": "AI Pioneer | World Chess Champion",
+    "social": []
+  },
+  {
+    "name": "Flavilla Fongang",
+    "details": "Founder of 3 Colours Rule",
+    "social": []
+  },
+  {
+    "name": "Miško Hevery",
+    "details": "Inventor of Angular/AnuglarJS | CTO at Builder.io",
+    "social": []
+  },
+  {
+    "name": "Håkon Wium Lie",
+    "details": "Inventor of CSS | Web Standards Activist",
+    "social": []
+  },
+  {
+    "name": "Amanda Silver",
+    "details": "Corporate Vice President, Microsoft",
+    "social": []
+  },
+  {
+    "name": "Rasmus Lerdorf",
+    "details": "Inventor of PHP",
+    "social": []
+  },
+  {
+    "name": "Tanya Janca",
+    "details": "Application Security Trainer | Best-selling Author",
+    "social": []
+  },
+  {
+    "name": "Jeremy Keith",
+    "details": "Founder of Clearleft; Author; Tech Speaker",
+    "social": []
+  },
+  {
+    "name": "Brenda Romero",
+    "details": "Award-winning Game Designer",
+    "social": []
+  },
+  {
+    "name": "David Singleton",
+    "details": "CTO at Stripe",
+    "social": []
+  },
+  {
+    "name": "John Romero",
+    "details": "Award-winning Game Creator | Father of FPS | DOOM, Quake, Wolfenstein",
+    "social": []
+  },
+  {
+    "name": "Kriti Sharma",
+    "details": "Founder, AI for Good UK | UN Advisor | CPO at Thomson Reuters",
+    "social": []
+  },
+  {
+    "name": "Adam Cheyer",
+    "details": "Founder of Siri",
+    "social": []
+  },
+  {
+    "name": "Andreas M. Antonopoulos",
+    "details": "Bitcoin & Open Blockchain Expert",
+    "social": []
+  },
+  {
+    "name": "Luca Mezzalira",
+    "details": "Principal Solutions Architect at AWS | O'Reilly Author | Ex-VP at DAZN",
+    "social": []
+  },
+  {
+    "name": "Ire Aderinokun",
+    "details": "Cofounder, COO, and VP Engineering at Helicarrier",
+    "social": []
+  },
+  {
+    "name": "Jonas Andrulis",
+    "details": "Founder & CEO of Aleph Alpha",
+    "social": []
+  },
+  {
+    "name": "Tim O'Brien",
+    "details": "General Manager AI at Microsoft",
+    "social": []
+  },
+  {
+    "name": "David Schwartz",
+    "details": "CTO at Ripple",
+    "social": []
+  },
+  {
+    "name": "Mate Rimac",
+    "details": "CEO & Founder at Rimac",
+    "social": []
+  },
+  {
+    "name": "Martin Wezowski",
+    "details": "Chief Designer & Futurist at SAP",
+    "social": []
+  },
+  {
+    "name": "Sebastián Ramírez",
+    "details": "Creator of FastAPI, Staff Software Engineer at Forethought",
+    "social": []
+  },
+  {
+    "name": "Laurie Voss",
+    "details": "Co-founder of npm | Data Evangelist at Netlify",
+    "social": []
+  },
+  {
+    "name": "Chris Heilmann",
+    "details": "Principal Program Manager at Microsoft",
+    "social": []
+  },
+  {
+    "name": "Tracy Lee",
+    "details": "CEO at This Dot",
+    "social": []
+  },
+  {
+    "name": "Armin Ronacher",
+    "details": "Principal Architect at Sentry",
+    "social": []
+  },
+  {
+    "name": "Leah Culver",
+    "details": "Co-Author of OAuth & oEmbed",
+    "social": []
+  },
+  {
+    "name": "Alexandra Waldherr",
+    "details": "ML & Quantum Computing Enthusiast",
+    "social": []
+  },
+  {
+    "name": "Wei Hu",
+    "details": "Senior VP of Research and Development at Oracle",
+    "social": []
+  },
+  {
+    "name": "Shirley Wu",
+    "details": "Award-winning Creative | Instructor Frontend Masters",
+    "social": []
+  },
+  {
+    "name": "Tanmay Bakshi",
+    "details": "Best-selling Author | GDE Machine Learning",
+    "social": []
+  },
+  {
+    "name": "Bear Douglas",
+    "details": "Director Developer Relations at Slack",
+    "social": []
+  },
+  {
+    "name": "Eileen Uchitelle",
+    "details": "Principal Engineer at GitHub | Rails Core Team",
+    "social": []
+  },
+  {
+    "name": "Eyal Felstaine",
+    "details": "CTO at Amdocs",
+    "social": []
+  },
+  {
+    "name": "Rudi Bauer",
+    "details": "CCO & Chief Evangelist at WeAreDevelopers",
+    "social": []
+  },
+  {
+    "name": "Gero Hesse",
+    "details": "TERRITORY Embrace & SAATKORN Gründer",
+    "social": []
+  },
+  {
+    "name": "Hung Lee",
+    "details": "Editor at Recruiting Brainfood",
+    "social": []
+  },
+  {
+    "name": "Katrina Collier",
+    "details": "Author, Facilitator and Speaker at Katrina Collier Limited",
+    "social": []
+  },
+  {
+    "name": "Ben Craig",
+    "details": "Head of Recruitment & Employer Brand at Miro",
+    "social": []
+  },
+  {
+    "name": "Dalia Das",
+    "details": "CEO at neue fische GmbH",
+    "social": []
+  },
+  {
+    "name": "Nathalie Marie Pérez Sievers",
+    "details": "Founder I HR / Recruitment Consultant & Business Trainer at The People Hub",
+    "social": []
+  },
+  {
+    "name": "Eva-Maria Meyr",
+    "details": "Global Director of Employer Branding at Dynatrace",
+    "social": []
+  },
+  {
+    "name": "Tim Cadenbach",
+    "details": "Developer Evangelist at DeepL",
+    "social": [
+      "https://www.tcdev.de/",
+      "https://twitter.com/timcadenbach",
+      "https://www.linkedin.com/in/timcadenbach/"
+    ]
+  },
+  {
+    "name": "Marc Backes",
+    "details": "DevRel Lead at WeAreDevelopers, Vue Enthusiast",
+    "social": [
+      "https://twitter.com/themarcba"
+    ]
+  },
+  {
+    "name": "Luise Freese",
+    "details": "Independent Consultant",
+    "social": [
+      "https://twitter.com/LuiseFreese",
+      "https://linkedin.com/in/LuiseFreese"
+    ]
+  },
+  {
+    "name": "Brian Struck",
+    "details": "Managing Director / Prokurist at BCM Solutions",
+    "social": []
+  },
+  {
+    "name": "Alla Pavlova",
+    "details": "Talent Sourcing Partner at Riot Games",
+    "social": []
+  },
+  {
+    "name": "Sarah Fox",
+    "details": "Wissenschaftliche Mitarbeiterin für Kommunikation und Wissensmanagement at involas Institut für berufliche Bildung, Arbeitsmarkt- und Sozialpolitik GmbH",
+    "social": []
+  },
+  {
+    "name": "Yenny Cheung",
+    "details": "Engineering and Product Executive",
+    "social": []
+  },
+  {
+    "name": "Thomas Kohler",
+    "details": "CEO at pplwise",
+    "social": []
+  },
+  {
+    "name": "Ramona Schwering",
+    "details": "Software Engineer at shopware AG",
+    "social": []
+  },
+  {
+    "name": "Agnes Koller",
+    "details": "Head of Scientific Research at career Institut & Verlag",
+    "social": []
+  },
+  {
+    "name": "Linda Dürrbeck",
+    "details": "Recruiting Partnerin at idealo internet GmbH",
+    "social": []
+  },
+  {
+    "name": "Oliwia Schildt",
+    "details": "Business Development at CareerFoundry",
+    "social": []
+  },
+  {
+    "name": "Martin Tillert",
+    "details": "Partner Director DACH bei G-P at Globalization Partners",
+    "social": []
+  },
+  {
+    "name": "Katja Martina Mayer",
+    "details": "Director Communications & Community at EMBRACE / Bertelsmann",
+    "social": []
+  },
+  {
+    "name": "Linda Stauffenberg",
+    "details": "Managing Director at Experience One AG",
+    "social": []
+  },
+  {
+    "name": "Nadja Auer",
+    "details": "Head of Talent Attraction International IT at ALDI SÜD",
+    "social": []
+  },
+  {
+    "name": "Dominik Schweers",
+    "details": "Director International IT für Stores Checkout at ALDI SÜD",
+    "social": []
+  },
+  {
+    "name": "Dr. Christoph Hardt",
+    "details": "CEO Malt Deutschland at MALT",
+    "social": []
+  },
+  {
+    "name": "Pauline Weiß",
+    "details": "Team Lead Talent Acquisition at powercloud GmbH",
+    "social": []
+  },
+  {
+    "name": "Nathalie Gierth",
+    "details": "HR Managerin at iTentity GmbH",
+    "social": []
+  },
+  {
+    "name": "Annika Mutius",
+    "details": "Co-Founder & Co-CEO at Empion",
+    "social": []
+  },
+  {
+    "name": "Konstantin Diener",
+    "details": "CTO at cosee GmbH",
+    "social": []
+  },
+  {
+    "name": "Rimma Pitkewitsch",
+    "details": "People & Culture Manager at comspace GmbH & Co. KG",
+    "social": []
+  },
+  {
+    "name": "Anne Katharina Rhode",
+    "details": "Head of Organizational Design at Thoughtworks",
+    "social": []
+  },
+  {
+    "name": "Alexandra Ennsberger",
+    "details": "Head of People & Culture at WeAreDevelopers GmbH",
+    "social": []
+  },
+  {
+    "name": "Ana Gospodinova",
+    "details": "Director Talent Management at WeAreDevelopers GmbH",
+    "social": []
+  },
+  {
+    "name": "Tobias Fackler",
+    "details": "Employer Branding at diconium",
+    "social": []
+  },
+  {
+    "name": "Adnan Pavlovic",
+    "details": "Regional Director at WeAreDevelopers",
+    "social": []
+  },
+  {
+    "name": "Kerstin Michels",
+    "details": "Mitbegründerin und COO at voiio",
+    "social": []
+  },
+  {
+    "name": "Cathy Demmel",
+    "details": "Head of TA Europe at Thoughtworks",
+    "social": []
+  },
+  {
+    "name": "Julia Hauska",
+    "details": "Head of Recruiting at TTI Group",
+    "social": []
+  },
+  {
+    "name": "Jonas Krauspe",
+    "details": "Digital innovation & digital health specialist at www.jonaskrauspe.de",
+    "social": []
+  }
+]
